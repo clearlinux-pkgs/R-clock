@@ -4,7 +4,7 @@
 #
 Name     : R-clock
 Version  : 0.6.1
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/clock_0.6.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/clock_0.6.1.tar.gz
 Summary  : Date-Time Types and Tools
